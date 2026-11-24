@@ -41,4 +41,9 @@
 		"preview": "https://i.imgur.com/ZFTy5Rm.png",
 		"main": "Extensions/trashbin.js"
 	}
+]		"name": "Madoka Theme",
+		"description": "A Madoka Magica inspired theme",
+		"preview": "https://imgur.com/gallery/MHR0PyW",
+		"main": "Extensions/madoka.js"
+	}
 ]
