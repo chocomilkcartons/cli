@@ -1,3 +1,4 @@
+
 :root {
 	--player-bar-height: 105px;
 }
@@ -177,4 +178,14 @@ div.GlueDropTarget.personal-library > *.active {
 .main-buddyFeed-activityMetadata .main-buddyFeed-username a,
 .main-buddyFeed-activityMetadata .main-buddyFeed-playbackContextLink {
 	color: var(--spice-text);
+}
+/** Madoka background */  
+.main-entityHeader-background.main-entityHeader-overlay:after {  
+	background-image: linear-gradient(transparent, transparent), linear-gradient(var(--spice-main), var(--spice-main));  
+}  
+  
+.Root__main-view {  
+	background-image: url('https://i.imgur.com/I0qYH3t_d.webp?maxwidth=760&fidelity=grand') !important;  
+	background-size: cover !important;  
+	background-position: center !important;  
 }
